@@ -16,4 +16,4 @@ Benefits
 - Efficient Resource Allocation: Automation and machine learning help prioritize efforts, ensuring that resources are used effectively.
 
 Conclusion
-Threat hunting is essential in the modern cybersecurity landscape. By combining methodical data analysis, innovative techniques, and advanced automation, threat hunters can pre-emptively identify and mitigate threats, safeguarding the organization from potential harm.
+- Threat hunting is essential in the modern cybersecurity landscape. By combining methodical data analysis, innovative techniques, and advanced automation, threat hunters can pre-emptively identify and mitigate threats, safeguarding the organization from potential harm.
